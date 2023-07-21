@@ -22,7 +22,7 @@ let resposta;
 
 do {
     console.log("Bem vindo ao menu de exercícios!")   
-    resposta = prompt("Digite um número de 1 a 6 para escolher um exercício, ou 'sair' para interromper o programa: ")
+    resposta = prompt("Digite um número de 1 a 10 para escolher um exercício, ou 'sair' para interromper o programa: ")
 
     switch(resposta){
         case "1":
