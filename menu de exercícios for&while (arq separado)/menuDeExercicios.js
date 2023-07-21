@@ -21,7 +21,7 @@ let resposta;
 
 
 do {
-    console.log("Bem vindo ao menu de exercícios!")   
+    console.log("Bem vindo ao menu de exercícios - FOR e WHILE!")   
     resposta = prompt("Digite um número de 1 a 10 para escolher um exercício, ou 'sair' para interromper o programa: ")
 
     switch(resposta){
